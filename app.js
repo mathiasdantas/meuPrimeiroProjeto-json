@@ -1,4 +1,4 @@
-//Informações pessoais sobre mim
+//Informações - meu primeiro projeto no github
 
 let pessoa = {
   nome: 'Mathias Sammer',
